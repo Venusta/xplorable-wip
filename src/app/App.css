@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  box-sizing: border-box;
+  background-color: rgb(29, 29, 29);
+  color: rgb(184, 184, 184);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
