@@ -3,8 +3,16 @@ html, body {
   box-sizing: border-box;
   background-color: rgb(29, 29, 29);
   color: rgb(184, 184, 184);
+  font-family: "Consolas";
 }
 * {
   margin: 0;
   padding: 0;
+}
+
+.app {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
 }
